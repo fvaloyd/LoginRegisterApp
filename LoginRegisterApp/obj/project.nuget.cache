@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcbowIciM8ROH3Fy9g4FvobpPL5I/3PI7oqaJh7XGL3SETR1IFTYT4s3UHtO/z14Snd094QGjIYqSeh2f/pS8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Francis Alcantara\\OneDrive\\Escritorio\\LoginRegisterApp\\LoginRegisterApp\\LoginRegisterApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francis Alcantara\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
