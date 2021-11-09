@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ooduNv3jqYXG/fp92Bki0LKeCCdZaeNuB0t51Zjy5CPMpKPRWh253G5OWDZnO6q5Ya6sWnDFnXSkDi6+u05XyA==",
+  "dgSpecHash": "DtX3RwKsDCvz3duUsdk39peJAE+KVS4UtIt21+dIU/FFLjsJzUnEO84xFKdNENh1gddWuXZu0IxnvhGTWfZTSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Francis Alcantara\\OneDrive\\Escritorio\\LoginRegisterApp\\LoginRegisterApp\\LoginRegisterApp.csproj",
   "expectedPackageFiles": [
@@ -28,7 +28,7 @@
     "C:\\Users\\Francis Alcantara\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.0\\microsoft.entityframeworkcore.design.5.0.0.nupkg.sha512",
     "C:\\Users\\Francis Alcantara\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.0\\microsoft.entityframeworkcore.relational.5.0.0.nupkg.sha512",
     "C:\\Users\\Francis Alcantara\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.0\\microsoft.entityframeworkcore.sqlserver.5.0.0.nupkg.sha512",
-    "C:\\Users\\Francis Alcantara\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.21\\microsoft.entityframeworkcore.tools.3.1.21.nupkg.sha512",
+    "C:\\Users\\Francis Alcantara\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.0\\microsoft.entityframeworkcore.tools.5.0.0.nupkg.sha512",
     "C:\\Users\\Francis Alcantara\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Francis Alcantara\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\Francis Alcantara\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
