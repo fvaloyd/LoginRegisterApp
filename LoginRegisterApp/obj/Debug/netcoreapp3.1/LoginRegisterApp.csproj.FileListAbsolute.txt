@@ -168,3 +168,4 @@ C:\Users\Francis Alcantara\OneDrive\Escritorio\LoginRegisterApp\LoginRegisterApp
 C:\Users\Francis Alcantara\OneDrive\Escritorio\LoginRegisterApp\LoginRegisterApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Francis Alcantara\OneDrive\Escritorio\LoginRegisterApp\LoginRegisterApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\Francis Alcantara\OneDrive\Escritorio\LoginRegisterApp\LoginRegisterApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Francis Alcantara\OneDrive\Escritorio\LoginRegisterApp\LoginRegisterApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_AuthLayout.cshtml.g.cs
