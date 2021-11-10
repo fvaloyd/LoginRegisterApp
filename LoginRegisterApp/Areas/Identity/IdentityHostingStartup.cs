@@ -20,8 +20,15 @@ namespace LoginRegisterApp.Areas.Identity
                     options.UseSqlServer(
                         context.Configuration.GetConnectionString("LoginRegisterDbContextConnection")));
 
-                services.AddDefaultIdentity<LoginRegisterAppUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                services.AddDefaultIdentity<LoginRegisterAppUser>(options => 
+                {
+                    options.SignIn.RequireConfirmedAccount = false;
+                    options.Password.RequireUppercase = false;
+                    options.Password.RequireLowercase = false;
+                })
+
                     .AddEntityFrameworkStores<LoginRegisterDbContext>();
+
             });
         }
     }
